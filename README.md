@@ -1,5 +1,4 @@
-# 🏋️‍♂️ Gym Customer Churn Prediction & Segmentation — Model Fitness Case Study
-
+# 🏋️‍♂️ Gym Customer Churn Prediction & Segmentation 
 ## 🔍 Overview
 This project addresses customer churn prediction and segmentation for Model Fitness, a chain of gyms aiming to improve client retention through data-driven insights.
 
